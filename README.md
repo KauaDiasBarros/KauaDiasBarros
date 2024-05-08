@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bom dia, meu nome é Kauã dias e bem vindo ao meu perfil! 😎
 
-<!--
-**KauaDiasBarros/KauaDiasBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estou estudando no [Alura](https://www.alura.com.br)
+- Estou **(tentando)** me desenvolver em JavaScript
+- Usarei o github para compartilhar meus projetos etc
 
-Here are some ideas to get you started:
+### Para entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0000108415934xsp@al.educacao.gov.br
+
+### Cr7 
+
+![](https://media.tenor.com/oR4e2lbOuFIAAAAM/rms-cristiano-ronaldo.gif)
